@@ -1,0 +1,9 @@
+.idea/
+.vs/
+CMakeLists.txt
+cmake-build-debug/
+compressed_graph.g
+compressed_paths.p
+main.o
+main_javascript_helper.c
+visualization.png
